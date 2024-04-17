@@ -1,0 +1,736 @@
+{
+  "restaurantData": [
+    {
+      "restaurantId": "1",
+      "imagePath": "asset/images/pizza_hut.jpg",
+      "locationImagePath": "asset/images/location.png",
+      "title": "Pizza Hut",
+      "address": "Shop #1, Street #10, Lahore",
+      "latitude": "0.0",
+      "longitude": "0.0",
+      "delivery": "15 min",
+      "deliveryFee": "40",
+      "averageReview": "4.0",
+      "reviewPeopleCount": "120",
+      "categories": [
+        {
+          "categoryId": "1",
+          "categoryName": "Pizza",
+          "products": [
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            }
+          ]
+        },
+        {
+          "categoryId": "2",
+          "categoryName": "Burger",
+          "products": [
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Burgur",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "250"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            }
+          ]
+        },
+        {
+          "categoryId": "3",
+          "categoryName": "Rice",
+          "products": [
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            }
+          ]
+        },
+        {
+          "categoryId": "4",
+          "categoryName": "Special",
+          "products": [
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            }
+          ]
+        },
+        {
+          "categoryId": "5",
+          "categoryName": "Soft Drinks",
+          "products": [
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "restaurantId": "2",
+      "imagePath": "asset/images/biryani.jpg",
+      "locationImagePath": "asset/images/location.png",
+      "title": "Lazeez Biryani",
+      "address": "Shop #2, Street #20, Lahore",
+      "latitude": "0.0",
+      "longitude": "0.0",
+      "delivery": "25 min",
+      "deliveryFee": "50",
+      "averageReview": "4.3",
+      "reviewPeopleCount": "100",
+      "categories": [
+        {
+          "categoryId": "1",
+          "categoryName": "MAD Deals",
+          "products": [
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            }
+          ]
+        },
+        {
+          "categoryId": "2",
+          "categoryName": "Singles Deals",
+          "products": [
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            }
+          ]
+        },
+        {
+          "categoryId": "3",
+          "categoryName": "Double Deals",
+          "products": [
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            }
+          ]
+        },
+        {
+          "categoryId": "4",
+          "categoryName": "Rice",
+          "products": [
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            }
+          ]
+        },
+        {
+          "categoryId": "5",
+          "categoryName": "Special",
+          "products": [
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            }
+          ]
+        },
+        {
+          "categoryId": "6",
+          "categoryName": "Soft Drinks",
+          "products": [
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "restaurantId": "3",
+      "imagePath": "asset/images/restaurant.jpg",
+      "locationImagePath": "asset/images/location.png",
+      "title": "Chow Ming",
+      "address": "Shop #3, Street #30, Lahore",
+      "latitude": "0.0",
+      "longitude": "0.0",
+      "delivery": "20 min",
+      "deliveryFee": "30",
+      "averageReview": "3.8",
+      "reviewPeopleCount": "1600",
+      "categories": [
+        {
+          "categoryId": "1",
+          "categoryName": "MAD Deals",
+          "products": [
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            }
+          ]
+        },
+        {
+          "categoryId": "2",
+          "categoryName": "Singles Deals",
+          "products": [
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            }
+          ]
+        },
+        {
+          "categoryId": "3",
+          "categoryName": "Double Deals",
+          "products": [
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            }
+          ]
+        },
+        {
+          "categoryId": "4",
+          "categoryName": "Pizza",
+          "products": [
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            }
+          ]
+        },
+        {
+          "categoryId": "5",
+          "categoryName": "Burger",
+          "products": [
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            }
+          ]
+        },
+        {
+          "categoryId": "6",
+          "categoryName": "Rice",
+          "products": [
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            }
+          ]
+        },
+        {
+          "categoryId": "7",
+          "categoryName": "Special",
+          "products": [
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            }
+          ]
+        },
+        {
+          "categoryId": "8",
+          "categoryName": "Soft Drinks",
+          "products": [
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            },
+            {
+              "imagePath": "asset/images/pizza_hut.jpg",
+              "title": "Pizza",
+              "subTitle": "Product details in words.",
+              "quantity": "0",
+              "amount": "500"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "orderData": [
+    {
+      "id": "1",
+      "restaurantName": "Pizza Hut",
+      "dateTime": "2021-03-03 11:45AM",
+      "price": "Rs. 500"
+    },
+    {
+      "id": "2",
+      "restaurantName": "Lazeez Biryani",
+      "dateTime": "2021-03-03 11:45AM",
+      "price": "Rs. 500"
+    },
+    {
+      "id": "3",
+      "restaurantName": "Chow Ming",
+      "dateTime": "2021-03-03 11:45AM",
+      "price": "Rs. 500"
+    }
+  ],
+  "addressData": [
+    {
+      "field": "1",
+      "address": "House #1, Street #10, Lahore",
+      "latitude": "0.0",
+      "longitude": "0.0"
+    },
+    {
+      "field": "2",
+      "address": "House #2, Street #20, Lahore",
+      "latitude": "0.0",
+      "longitude": "0.0"
+    },
+    {
+      "field": "3",
+      "address": "House #3, Street #30, Lahore",
+      "latitude": "0.0",
+      "longitude": "0.0"
+    }
+  ],
+  "reviewData": [
+    {
+      "name": "Ali",
+      "reviewText": "Food was very delicious.",
+      "reviewDate": "March 01, 2021",
+      "review": "4.0"
+    },
+    {
+      "name": "Faisal",
+      "reviewText": "Food was good.",
+      "reviewDate": "March 02, 2021",
+      "review": "3.0"
+    },
+    {
+      "name": "Sameer",
+      "reviewText": "Food is very delicious.",
+      "reviewDate": "March 03, 2021",
+      "review": "3.5"
+    },
+    {
+      "name": "Ali",
+      "reviewText": "Food was very delicious.",
+      "reviewDate": "March 01, 2021",
+      "review": "4.0"
+    },
+    {
+      "name": "Faisal",
+      "reviewText": "Food was good.",
+      "reviewDate": "March 02, 2021",
+      "review": "3.0"
+    },
+    {
+      "name": "Sameer",
+      "reviewText": "Food is very delicious.",
+      "reviewDate": "March 03, 2021",
+      "review": "3.5"
+    },
+    {
+      "name": "Ali",
+      "reviewText": "Food was very delicious.",
+      "reviewDate": "March 01, 2021",
+      "review": "4.0"
+    },
+    {
+      "name": "Faisal",
+      "reviewText": "Food was good.",
+      "reviewDate": "March 02, 2021",
+      "review": "3.0"
+    },
+    {
+      "name": "Sameer",
+      "reviewText": "Food is very delicious.",
+      "reviewDate": "March 03, 2021",
+      "review": "3.5"
+    },
+    {
+      "name": "Ali",
+      "reviewText": "Food was very delicious.",
+      "reviewDate": "March 01, 2021",
+      "review": "4.0"
+    },
+    {
+      "name": "Faisal",
+      "reviewText": "Food was good.",
+      "reviewDate": "March 02, 2021",
+      "review": "3.0"
+    },
+    {
+      "name": "Sameer",
+      "reviewText": "Food is very delicious.",
+      "reviewDate": "March 03, 2021",
+      "review": "3.5"
+    },
+    {
+      "name": "Ali",
+      "reviewText": "Food was very delicious.",
+      "reviewDate": "March 01, 2021",
+      "review": "4.0"
+    },
+    {
+      "name": "Faisal",
+      "reviewText": "Food was good.",
+      "reviewDate": "March 02, 2021",
+      "review": "3.0"
+    },
+    {
+      "name": "Sameer",
+      "reviewText": "Food is very delicious.",
+      "reviewDate": "March 03, 2021",
+      "review": "3.5"
+    }
+  ]
+}
