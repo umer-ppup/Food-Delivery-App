@@ -1,4 +1,4 @@
-# food_delivery_app
+# Food Delivery App
 
 General Food Delivery App.
 
